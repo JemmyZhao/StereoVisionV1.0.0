@@ -1,0 +1,8 @@
+﻿  ch_calibration.cpp
+f:\workspace_opencv\project2\project2\project2\ch_calibration.cpp(61): warning C4244: “=”: 从“int64”转换到“int”，可能丢失数据
+f:\workspace_opencv\project2\project2\project2\ch_calibration.cpp(63): warning C4244: “=”: 从“int64”转换到“int”，可能丢失数据
+f:\workspace_opencv\project2\project2\project2\ch_calibration.cpp(67): warning C4244: “=”: 从“int64”转换到“int”，可能丢失数据
+f:\workspace_opencv\project2\project2\project2\ch_calibration.cpp(69): warning C4244: “=”: 从“int64”转换到“int”，可能丢失数据
+f:\workspace_opencv\project2\project2\project2\ch_calibration.cpp(73): warning C4244: “=”: 从“int64”转换到“int”，可能丢失数据
+f:\workspace_opencv\project2\project2\project2\ch_calibration.cpp(75): warning C4244: “=”: 从“int64”转换到“int”，可能丢失数据
+  Project2.vcxproj -> F:\WorkSpace_OpenCV\Project2\Project2\x64\Debug\Project2.exe
